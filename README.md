@@ -1,4 +1,4 @@
-# Repositório de Atividades em Java
+# 🌐 Repositório de Atividades em Java
 <p align="center">
   <img src="Logo-Java/Icon-Java.png" alt="Ícone do Java" width="120">
 </p>
