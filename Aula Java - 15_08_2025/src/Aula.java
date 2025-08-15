@@ -58,7 +58,7 @@ public class Aula {
         entrada.close();
         */
 
-        Scanner entrada = new Scanner(System.in);
+        /*Scanner entrada = new Scanner(System.in);
         int contador =0, acumulador=0;
 
         while (contador < 5) {
@@ -70,5 +70,31 @@ public class Aula {
                     "o acumulador está em %d\n", contador, acumulador);
         }
         entrada.close();
+        */
+
+        //DO WHILE
+        /*Scanner entrada = new Scanner(System.in);
+        String valor;
+
+        //primeira iteração do laço é sempre executada
+        do {
+            System.out.print("Diga-me algo: ");
+            valor = entrada.nextLine();
+        } while (!valor.equalsIgnoreCase("algo"));
+        //demais iterações do laço só são executadas se a condição for verdadeira
+        entrada.close();
+        */
+
+        //CORREÇÃO DE ERROS - TRY e CATCH
+        Scanner scanner = new Scanner(System.in);
+
+        try {
+            int numero = scanner.nextInt();
+            System.out.println(numero);
+        } catch (Exception error) {
+            System.out.println("Digite apenas números!");
+        }
+
+
     }
 }
