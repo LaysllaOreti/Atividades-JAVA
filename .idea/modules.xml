@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Atividades-JAVA.iml" filepath="$PROJECT_DIR$/.idea/Atividades-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 12_09_2025/Aula 12_09_2025.iml" filepath="$PROJECT_DIR$/Aula 12_09_2025/Aula 12_09_2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula Java - 23_05_2025/Aula Java - 23_05_2025.iml" filepath="$PROJECT_DIR$/Aula Java - 23_05_2025/Aula Java - 23_05_2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios Java - 11_04_2025/Exercicios Java - 11_04_2025.iml" filepath="$PROJECT_DIR$/Exercicios Java - 11_04_2025/Exercicios Java - 11_04_2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios Java - 16_05_2025/Exercicios Java - 16_05_2025.iml" filepath="$PROJECT_DIR$/Exercicios Java - 16_05_2025/Exercicios Java - 16_05_2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista 1 - 12_09_2025/Lista 1 - 12_09_2025.iml" filepath="$PROJECT_DIR$/Lista 1 - 12_09_2025/Lista 1 - 12_09_2025.iml" />
     </modules>
   </component>
 </project>
