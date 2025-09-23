@@ -36,10 +36,10 @@ public class Exercicio_2 {
             }
         }
 
-        System.out.println("Resultados das verificações");
-        System.out.println("a. Quantas pessoas têm idade acima de 50 anos: " + idadeAcima);
+        System.out.println("--- Resultados das verificações ---");
+        System.out.println("a. Quantas pessoas têm idade superior a 50 anos: " + idadeAcima);
         System.out.println("b. Quantas pessoas têm altura acima de 1.60m: " + alturaAcima);
-        System.out.println("c. Quantas pessoas têm peso abaixo de 80kg: " + pesoAbaixo);
+        System.out.println("c. Quantas pessoas têm peso menor que 80kg: " + pesoAbaixo);
 
         read.close();
     }
